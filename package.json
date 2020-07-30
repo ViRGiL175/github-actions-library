@@ -1,0 +1,27 @@
+{
+  "name": "github-actions-library",
+  "version": "1.0.0",
+  "description": "Repository for GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViRGiL175/github-actions-library.git"
+  },
+  "keywords": [
+    "github",
+    "actions"
+  ],
+  "author": "ViRGiL7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViRGiL175/github-actions-library/issues"
+  },
+  "homepage": "https://github.com/ViRGiL175/github-actions-library#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^4.0.0"
+  }
+}
